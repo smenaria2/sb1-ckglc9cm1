@@ -12,7 +12,7 @@ export default function ContactForm() {
         Have questions? Want to share your thoughts? We'd love to hear from you!
       </p>
       <a 
-        href="mailto:projectshvaas@gmail.com"
+        href="mailto:sumitkmenaria@gmail.com"
         className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg text-lg font-medium transition-all duration-300"
       >
         <Mail className="w-5 h-5" />
