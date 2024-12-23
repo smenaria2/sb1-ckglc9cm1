@@ -23,7 +23,7 @@ export default function CompetitionSection() {
 
       {/* New Competitions Section */}
       <div>
-        <h3 className="text-xl font-medium text-gray-300 mb-6">Join new competitions</h3>
+        <h3 className="text-xl font-medium text-gray-300 mb-6">कहानी लेखन प्रतियोगिता</h3>
         <a
           href="http://tiny.cc/shvaas"
           target="_blank"
@@ -31,7 +31,7 @@ export default function CompetitionSection() {
           className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-8 py-4 rounded-lg text-lg font-medium transition-all transform hover:scale-105"
         >
           <Trophy className="w-6 h-6" />
-          Join the Competition
+          कहानी लेखन प्रतियोगिता में भाग लें
         </a>
 
         {/* Embed Google Sheet */}
