@@ -33,6 +33,15 @@ export default function CompetitionSection() {
           <Trophy className="w-6 h-6" />
           Join the Competition
         </a>
+
+        {/* Embed Google Sheet */}
+        <div className="mt-8">
+          <iframe
+            className="w-full max-w-3xl mx-auto h-96 rounded-lg"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEuBjfWiRqy5WnEpdX-xFCM3jrN8vgUFa7LpxeFuT48rjYR1jZkXQvN-ky-2bHAQtwsenKVkP08Qb5/pubhtml?gid=1471893232&amp;single=true&amp;widget=true&amp;headers=false"
+            title="Competition Sheet"
+          ></iframe>
+        </div>
       </div>
     </div>
   );
