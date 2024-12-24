@@ -38,7 +38,7 @@ export default function CompetitionSection() {
         <div className="mt-8">
           <iframe
             className="w-full max-w-3xl mx-auto h-[36rem] rounded-lg border border-gray-700 shadow-lg"
-            src="https://biraaba86blt8mrl.vercel.app/"
+            src="https://a3y9dcag66fgn02c.vercel.app/"
             title="Competition Page"
           ></iframe>
         </div>
